@@ -4,7 +4,7 @@ int main()
 	int a[10];
 	int i,n,sum=0;
 	printf("enter number of element to enter:");
-	scanf("%d",&n);
+	scanf("%d",&n); 
 	printf("enter element:");
 	for(i=0;i<n;i++)
 	{
